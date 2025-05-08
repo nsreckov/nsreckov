@@ -91,13 +91,3 @@
   </a>
 </div>
 
-## 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/yourusername/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nsreckov&repo=project1&theme=react" />
-  </a>
-  <a href="https://github.com/yourusername/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nsreckov&repo=project2&theme=react" />
-  </a>
-</div>
