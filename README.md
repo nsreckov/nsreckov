@@ -6,19 +6,14 @@
 
 <p align="left">💡 I thrive on challenging problems and enjoy creating applications that make a difference - from AI interview assistants to plant disease detection systems.</p>
 
-<table width="100%">
-  <tr>
-    <td width="33%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=nsreckov&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false" height="150" alt="stats graph" />
-    </td>
-    <td width="33%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nsreckov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=false" height="150" alt="languages graph" />
-    </td>
-    <td width="33%" align="center">
-      <img src="https://streak-stats.demolab.com?user=nsreckov&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nsreckov&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=nsreckov&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nsreckov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nsreckov/nsreckov/output/pacman-contribution-graph-dark.svg">
