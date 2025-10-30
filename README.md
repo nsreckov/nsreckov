@@ -27,8 +27,8 @@
 
 | 🔧 Project | 💬 Description | 🧠 Tech Stack |
 |------------|----------------|---------------|
-| [**PrepBot – AI Interview Practice Platform**](https://github.com/nsreckov/PrepBot---AI-Interview-Practice-Platform) | Interactive AI-powered interview trainer that helps users practice real-world interview questions. | **Next.js**, **TypeScript**, **React**, **OpenAI API** |
-| [**Cell Image to 3D Model**](https://github.com/nsreckov/Cell-Image-to-3D-Model) | Converts 2D microscopic images into 3D visualizations for research and analysis. | **Python**, **OpenCV**, **Open3D**, **NumPy** |
+| [**PrepBot – AI Interview Practice Platform**](https://github.com/nsreckov/ai-agent) | Interactive AI-powered interview trainer that helps users practice real-world interview questions. | **Next.js**, **TypeScript**, **React**, **OpenAI API** |
+| [**Cell Image to 3D Model**](https://github.com/nsreckov/3d-cell) | Converts 2D microscopic images into 3D visualizations for research and analysis. | **Python**, **OpenCV**, **Open3D**, **NumPy** |
 | [**Plant Disease Detection**](https://github.com/nsreckov/Plant-Disease-Detection) | AI-based system that identifies crop diseases from leaf images using deep learning. | **TensorFlow**, **Flask**, **Pandas**, **OpenCV** |
 
 </div>
